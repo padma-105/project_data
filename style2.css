@@ -48,7 +48,7 @@ body {
   }
   
   #book-now{
-    background-color: #28a745 ;
+    background-color: black ;
     color: white ;
     border: none;
     padding: 10px 20px;
@@ -64,7 +64,7 @@ body {
   }
   
   #book-now:hover:enabled {
-    background-color: #218838;
+    background-color: white;
   }
   
   /* second div start */
