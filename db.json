@@ -1,0 +1,331 @@
+{
+    "cars":[
+        {
+          "id":"1",
+          "carimage":"honda.jpg",
+          "name":"Honda",
+          "segment":"sedan",
+          "fuel":"petrol",
+          "transmission":"manual",
+          "seater type":"5 seater",
+          "price":"600",
+          "available":"true"
+        },
+
+
+        {
+            "id":"2",
+            "carimage":"hcreta1.jpg",
+            "name":"Hyundai_creta",
+            "segment":"SUV",
+            "fuel":"diesel",
+            "transmission":"Automatic",
+            "seater type":"5 seater",
+            "price":"600",
+             "available":"true"
+          },
+          {
+            "id":"3",
+            "carimage":"hsantro1.jpg",
+            "name":"Hyundai_santro",
+            "segment":"hatchback",
+            "fuel":"petrol",
+            "transmission":"Automatic",
+            "seater type":"5 seater",
+            "price":"600",
+             "available":"true"
+          },
+          {
+            "id":"4",
+            "carimage":"hsantro1.jpg",
+            "name":"Hyundai_santro",
+            "segment":"hatchback",
+            "fuel":"petrol",
+            "transmission":"manual",
+            "seater type":"5 seater",
+            "price":"600",
+             "available":"true"
+          },
+          {
+            "id":"5",
+            "carimage":"hverna.jpg",
+            "name":"Hyundai_verna",
+            "segment":"sedan",
+            "fuel":"petrol",
+            "transmission":"Automatic",
+            "seater type":"5 seater",
+            "price":"600",
+             "available":"true"
+          },
+
+
+
+          {
+            "id":"6",
+            "carimage":"mxuv500.jpg",
+            "name":"Mahindra XUV500",
+            "segment":"SUV",
+            "fuel":"diesel",
+            "transmission":"manual",
+            "seater type":"7 seater",
+            "price":"1000",
+             "available":"true"
+          },
+          {
+            "id":"7",
+            "carimage":"mxuv300.jpg",
+            "name":"Mahindra XUV300",
+            "segment":"SUV/MUV",
+            "fuel":"diesel",
+            "transmission":"manual",
+             "seater type":"5 seater",
+            "price":"600",
+             "available":"true"
+          },
+          {
+            "id":"8",
+            "carimage":"mxuv300.jpg",
+            "name":"Mahindra XUV300",
+            "segment":"SUV/MUV",
+            "fuel":"petrol",
+            "transmission":"manual",
+            "seater type":"5 seater",
+            "price":"600",
+             "available":"true"
+          },
+          {
+            "id":"9",
+            "carimage":"mkuv100.jpg",
+            "name":"Mahindra KUV100",
+            "segment":"hatchback",
+            "fuel":"diesel",
+            "transmission":"manual",
+            "seater type":"5 seater",
+            "price":"600",
+             "available":"true"
+          },
+          {
+            "id":"10",
+            "carimage":"mmarazzo.jpg",
+            "name":"Mahindra Marazzo",
+            "segment":"MUV",
+            "fuel":"diesel",
+            "transmission":"manual",
+            "seater type":"7 seater",
+            "price":"1000",
+             "available":"true"
+          },
+          {
+            "id":"11",
+            "carimage":"scorpio.png",
+            "name":"Mahindra Scorpio N 2024",
+            "segment":"",
+            "fuel":"diesel",
+            "transmission":"manual",
+            "seater type":"7 seater",
+            "price":"1000",
+             "available":"true"
+          },
+
+
+
+          {
+            "id":"12",
+            "carimage":"maruti_dzire.jpg",
+            "name":"Maruti Swift Dzire",
+            "segment":"sedan",
+            "fuel":"diesel",
+            "transmission":"manual",
+            "seater type":"5 seater",
+            "price":"600",
+             "available":"true"
+          },
+          {
+            "id":"13",
+            "carimage":"maruti_wift.jpg",
+            "name":"Maruti Swift",
+            "segment":"hatchback",
+            "fuel":"diesel",
+            "transmission":"manual",
+            "seater type":"5 seater",
+            "price":"600",
+             "available":"true"
+          },
+          {
+            "id":"14",
+            "carimage":"maruti_wift.jpg",
+            "name":"Maruti Swift",
+            "segment":"hatchback",
+            "fuel":"petrol",
+            "transmission":"Automatic",
+             "seater type":"5 seater",
+            "price":"600",
+             "available":"true"
+          },
+          {
+            "id":"15",
+            "carimage":"maruti_baleno.jpg",
+            "name":"Maruti Baleno",
+            "segment":"hatchback",
+            "fuel":"petrol",
+            "transmission":"Automatic",
+            "seater type":"5 seater",
+            "price":"600",
+             "available":"true"
+          } ,
+          {
+            "id":"16",
+            "carimage":"maruti_celerio.jpg",
+            "name":"Maruti Celerio",
+            "segment":"hatchback",
+            "fuel":"petrol",
+            "transmission":"Automatic",
+             "seater type":"5 seater",
+            "price":"600",
+             "available":"true"
+          } ,
+          {
+            "id":"17",
+            "carimage":"maruti_altok10.jpg",
+            "name":"Maruti Alto K10",
+            "segment":"hatchback",
+            "fuel":"petrol",
+            "transmission":"manual",
+             "seater type":"5 seater",
+            "price":"600",
+             "available":"true"
+          } ,
+          {
+            "id":"18",
+            "carimage":"hi20.png",
+            "name":"Maruti Dzire 2024",
+            "segment":"",
+            "fuel":"petrol",
+            "transmission":"Automatic",
+             "seater type":"5 seater",
+            "price":"600",
+             "available":"true"
+          } ,
+          {
+            "id":"19",
+            "carimage":"Marazzo_white.png",
+            "name":"Maruti Dzire 2024",
+            "segment":"",
+            "fuel":"petrol",
+            "transmission":"manual",
+             "seater type":"5 seater",
+            "price":"600",
+             "available":"true"
+          },
+          {
+            "id":"20",
+            "carimage":"Swift_01.png",
+            "name":"Maruti Swift 2024",
+            "segment":"",
+            "fuel":"petrol",
+            "transmission":"manual",
+             "seater type":"5 seater",
+            "price":"600",
+             "available":"true"
+          } ,
+          {
+            "id":"21",
+            "carimage":"Swift_01.png",
+            "name":"Maruti Swift 2024",
+            "segment":"",
+            "fuel":"petrol",
+            "transmission":"Automatic",
+             "seater type":"5 seater",
+            "price":"600",
+             "available":"true"
+          } ,
+          {
+            "id":"22",
+            "carimage":"maruti_brezza.png",
+            "name":"Maruti Brezza 2024",
+            "segment":"",
+            "fuel":"petrol",
+            "transmission":"manual",
+             "seater type":"5 seater",
+            "price":"600",
+             "available":"true"
+          } ,
+          {
+            "id":"23",
+            "carimage":"Swift+Dzire_ST.png",
+            "name":"Maruti Grand Vitara 2024",
+            "segment":"",
+            "fuel":"petrol",
+            "transmission":"manual",
+             "seater type":"5 seater",
+            "price":"600",
+             "available":"true"
+          } ,
+          {
+            "id":"24",
+            "carimage":"maruti_baleno.jpg",
+            "name":"Maruti Baleno 2024",
+            "segment":"",
+            "fuel":"petrol",
+            "transmission":"Automatic",
+             "seater type":"5 seater",
+            "price":"600",
+             "available":"true"
+          },
+          {
+            "id":"25",
+            "carimage":"maruti_baleno.jpg",
+            "name":"Maruti Baleno",
+            "segment":"hatchback",
+            "fuel":"diesel",
+            "transmission":"manual",
+             "seater type":"5 seater",
+            "price":"600",
+             "available":"true"
+          },
+          {
+            "id":"26",
+            "carimage":"Ertiga_01.png",
+            "name":"Maruti Ertiga 2024",
+            "segment":"",
+            "fuel":"petrol",
+            "transmission":"manual",
+             "seater type":"7 seater",
+            "price":"1000",
+             "available":"true"
+          } ,
+          {
+            "id":"27",
+            "carimage":"Fronx_LT.png",
+            "name":"Maruti Fronx AT 2024",
+            "segment":"",
+            "fuel":"petrol",
+            "transmission":"Automatic",
+             "seater type":"5 seater",
+            "price":"600",
+             "available":"true"
+          },
+          {
+            "id":"28",
+            "carimage":"Grand Vitara_01.png",
+            "name":"Maruti Grand Vitara 2024",
+            "segment":"",
+            "fuel":"petrol",
+            "transmission":"Automatic",
+             "seater type":"5 seater",
+            "price":"600",
+             "available":"true"
+          } ,
+          {
+            "id":"29",
+            "carimage":"Baleno_ST.png",
+            "name":"Hyundai_creta",
+            "segment":"hatchback",
+            "fuel":"diesel",
+            "transmission":"Automatic",
+            "seater type":"5 seater",
+            "price":"600",
+             "available":"true"
+          }
+]
+}

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Car Rental Page</title>
+  <link rel="stylesheet" href="./style1.css">
+</head>
+<body>
+  <!-- Header Section with Filters -->
+  <header>
+    <div id="filter-section">
+      <label for="filter-fuel">a</label>
+      <select id="filter-fuel">
+        <option value="">All Fuel Types</option>
+        <option value="petrol">Petrol</option>
+        <option value="diesel">Diesel</option>
+        <option value="electric">Electric</option>
+      </select>
+      <label for="filter-transmission">a</label>
+      <select id="filter-transmission">
+        <option value="">All Transmissions</option>
+        <option value="Manual">Manual</option>
+        <option value="Automatic">Automatic</option>
+      </select>
+      <label for="filter-seater">a</label>
+      <select id="filter-seater">
+        <option value="">All Seat Types</option>
+        <option value="5 seater">5 Seater</option>
+        <option value="7 seater">7 Seater</option>
+      </select>
+
+      <button id="apply-filters">Apply Filters</button>
+    </div>
+  </header>
+
+  <!-- Main Section for Car Data -->
+  <main id="car-data"></main>
+
+  <script src="./script1.js"></script>
+</body>
+</html>
